@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="DAZN">
+    <display-name lang="es">DAZN</display-name>
+  </channel>
+  <channel id="Alquiler 1">
+    <display-name lang="es">Alquiler 1</display-name>
+  </channel>
+  <channel id="Alquiler 2">
+    <display-name lang="es">Alquiler 2</display-name>
+  </channel>
+  <channel id="Alquiler 3">
+    <display-name lang="es">Alquiler 3</display-name>
+  </channel>
+  <channel id="Alquiler 4">
+    <display-name lang="es">Alquiler 4</display-name>
+  </channel>
+  <channel id="Alquiler 5">
+    <display-name lang="es">Alquiler 5</display-name>
+  </channel>
+  <channel id="Alquiler 6">
+    <display-name lang="es">Alquiler 6</display-name>
+  </channel>
+  <programme start="20220630000000 +0200" stop="20220630235900 +0200" channel="DAZN">
+    <title lang="es">DAZN:EVENTOS</title>
+  </programme>
+  <programme start="20220701000000 +0200" stop="20220701235900 +0200" channel="DAZN">
+    <title lang="es">DAZN:EVENTOS</title>
+  </programme>
+  <programme start="20220702000000 +0200" stop="20220702235900 +0200" channel="DAZN">
+    <title lang="es">DAZN:EVENTOS</title>
+  </programme>
+  <programme start="20220703000000 +0200" stop="20220703235900 +0200" channel="DAZN">
+    <title lang="es">DAZN:EVENTOS</title>
+  </programme>
+  <programme start="20220704000000 +0200" stop="20220704235900 +0200" channel="DAZN">
+    <title lang="es">DAZN:EVENTOS</title>
+  </programme>
+  <programme start="20220705000000 +0200" stop="20220705235900 +0200" channel="DAZN">
+    <title lang="es">DAZN:EVENTOS</title>
+  </programme>
+  <programme start="20220706000000 +0200" stop="20220706235900 +0200" channel="DAZN">
+    <title lang="es">DAZN:EVENTOS</title>
+  </programme>
+  <programme start="20220630000000 +0200" stop="20220630120000 +0200" channel="Alquiler 1">
+    <title lang="es">El último duelo</title>
+    <desc lang="es"> ★★★★☆ 15/10/2021 (USA) ● Acción, Drama, Historia ● 2h 32m ● (16).  
+Protagonizada:Matt Damon, Adam Driver, Jodie Comer, Ben Affleck, Harriet Walter, Nathaniel Parker, Marton Csokas, Sam Hazeldine, Michael McElhatton, Zeljko Ivanek, Alex Lawther, Clive Russell, William Houston. Dir: Ridley Scott.  
+Argumento: Francia, 1386. Narra el enfrentamiento entre el caballero Jean de Carrouges (Matt Damon) y el escudero Jacques LeGris (Adam Driver), al acusar el primero al segundo de abusar de su esposa, Marguerite de Carrouges (Jodie Comer). El Rey Carlos VI decide que la mejor forma de solucionar el conflicto es un duelo a muerte. El que gane será el poseedor de la verdad y, en caso de que venza LeGris, la esposa del caballero será quemada como castigo por falsas acusaciones. </desc>
+  </programme>
+  <programme start="20220630120000 +0200" stop="20220701000000 +0200" channel="Alquiler 1">
+    <title lang="es">El último duelo</title>
+    <desc lang="es"> ★★★★☆ 15/10/2021 (USA) ● Acción, Drama, Historia ● 2h 32m ● (16).  
+Protagonizada:Matt Damon, Adam Driver, Jodie Comer, Ben Affleck, Harriet Walter, Nathaniel Parker, Marton Csokas, Sam Hazeldine, Michael McElhatton, Zeljko Ivanek, Alex Lawther, Clive Russell, William Houston. Dir: Ridley Scott.  
+Argumento: Francia, 1386. Narra el enfrentamiento entre el caballero Jean de Carrouges (Matt Damon) y el escudero Jacques LeGris (Adam Driver), al acusar el primero al segundo de abusar de su esposa, Marguerite de Carrouges (Jodie Comer). El Rey Carlos VI decide que la mejor forma de solucionar el conflicto es un duelo a muerte. El que gane será el poseedor de la verdad y, en caso de que venza LeGris, la esposa del caballero será quemada como castigo por falsas acusaciones. </desc>
+  </programme>
+  <programme start="20220630000000 +0200" stop="20220630120000 +0200" channel="Alquiler 2">
+    <title lang="es">Ice Road</title>
+    <desc lang="es"> ★★★☆☆ 27/8/2021 (ES) ● Acción, Aventura, Drama, Suspense ● 1h 43m ● (12).  
+Protagonizada:Liam Neeson, Laurence Fishburne, Amber Midthunder, Holt McCallany, Matt McCoy, Martin Sensmeier, Matt Salinger, Paul Essiembre, Marcus Thomas, Lauren Cochrane, Gabriel Daniels, Bj Verot, Chad Bruce. Dir: Jonathan Hensleigh.  
+Argumento: Una remota mina de diamantes ha colapsado dejando atrapados a un grupo de mineros en una región lejana y helada de Canadá. Como parte de un equipo contratado para rescatarlos, el experimentado conductor de una quitahielos emprende un rescate imposible, teniendo que luchar contra una carretera helada, contra las aguas que están descongelándose y contra una amenaza que no ve venir. </desc>
+  </programme>
+  <programme start="20220630120000 +0200" stop="20220701000000 +0200" channel="Alquiler 2">
+    <title lang="es">Ice Road</title>
+    <desc lang="es"> ★★★☆☆ 27/8/2021 (ES) ● Acción, Aventura, Drama, Suspense ● 1h 43m ● (12).  
+Protagonizada:Liam Neeson, Laurence Fishburne, Amber Midthunder, Holt McCallany, Matt McCoy, Martin Sensmeier, Matt Salinger, Paul Essiembre, Marcus Thomas, Lauren Cochrane, Gabriel Daniels, Bj Verot, Chad Bruce. Dir: Jonathan Hensleigh.  
+Argumento: Una remota mina de diamantes ha colapsado dejando atrapados a un grupo de mineros en una región lejana y helada de Canadá. Como parte de un equipo contratado para rescatarlos, el experimentado conductor de una quitahielos emprende un rescate imposible, teniendo que luchar contra una carretera helada, contra las aguas que están descongelándose y contra una amenaza que no ve venir. </desc>
+  </programme>
+  <programme start="20220630000000 +0200" stop="20220630120000 +0200" channel="Alquiler 3">
+    <title lang="es">Venom: Habrá Matanza</title>
+    <desc lang="es"> ★★★☆☆ 15/10/2021 (USA) ● Ciencia ficción, Acción, Aventura ● 1h 37m ● (12).  
+Protagonizada:Tom Hardy, Michelle Williams, Woody Harrelson, Naomie Harris, Stephen Graham, Reid Scott, Peggy Lu, Alfredo Tavares, Amber Sienna, Sean Delaney, Jeff Redlick, Laurence Spellman, Ed Kear. Dir: Andy Serkis.  
+Argumento: Eddie Brock y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte se infecta con un simbionte propio. </desc>
+  </programme>
+  <programme start="20220630120000 +0200" stop="20220701000000 +0200" channel="Alquiler 3">
+    <title lang="es">Venom: Habrá Matanza</title>
+    <desc lang="es"> ★★★☆☆ 15/10/2021 (USA) ● Ciencia ficción, Acción, Aventura ● 1h 37m ● (12).  
+Protagonizada:Tom Hardy, Michelle Williams, Woody Harrelson, Naomie Harris, Stephen Graham, Reid Scott, Peggy Lu, Alfredo Tavares, Amber Sienna, Sean Delaney, Jeff Redlick, Laurence Spellman, Ed Kear. Dir: Andy Serkis.  
+Argumento: Eddie Brock y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte se infecta con un simbionte propio. </desc>
+  </programme>
+  <programme start="20220630000000 +0200" stop="20220630120000 +0200" channel="Alquiler 4">
+    <title lang="es">Maixabel</title>
+    <desc lang="es"> ★★★★☆ 24/9/2021 (ES) ● Drama ● 1h 55m ● (12).  
+Protagonizada:Blanca Portillo, Luis Tosar, Urko Olazabal, María Cerezuela, Arantxa Aranguren, Mikel Bustamante, Bruno Sevilla, Jone Laspiur, David Blanka. Dir: Icíar Bollaín.  
+Argumento: Maixabel Lasa pierde en el año 2000 a su marido, Juan María Jaúregui, asesinado por ETA. Once años más tarde, recibe una petición insólita: uno de los asesinos ha pedido entrevistarse con ella en la cárcel de Nanclares de la Oca en Álava, en la que cumple condena tras haber roto sus lazos con la banda terrorista. A pesar de las dudas y del inmenso dolor, Maixabel Lasa accede a encontrarse cara a cara con las personas que acabaron a sangre fría con la vida de quien había sido su compañero desde los dieciséis años. “Todo el mundo merece una segunda oportunidad”, dice ella cuando le preguntan por las razones para sentarse frente al asesino de su marido. </desc>
+  </programme>
+  <programme start="20220630120000 +0200" stop="20220701000000 +0200" channel="Alquiler 4">
+    <title lang="es">Maixabel</title>
+    <desc lang="es"> ★★★★☆ 24/9/2021 (ES) ● Drama ● 1h 55m ● (12).  
+Protagonizada:Blanca Portillo, Luis Tosar, Urko Olazabal, María Cerezuela, Arantxa Aranguren, Mikel Bustamante, Bruno Sevilla, Jone Laspiur, David Blanka. Dir: Icíar Bollaín.  
+Argumento: Maixabel Lasa pierde en el año 2000 a su marido, Juan María Jaúregui, asesinado por ETA. Once años más tarde, recibe una petición insólita: uno de los asesinos ha pedido entrevistarse con ella en la cárcel de Nanclares de la Oca en Álava, en la que cumple condena tras haber roto sus lazos con la banda terrorista. A pesar de las dudas y del inmenso dolor, Maixabel Lasa accede a encontrarse cara a cara con las personas que acabaron a sangre fría con la vida de quien había sido su compañero desde los dieciséis años. “Todo el mundo merece una segunda oportunidad”, dice ella cuando le preguntan por las razones para sentarse frente al asesino de su marido. </desc>
+  </programme>
+  <programme start="20220630000000 +0200" stop="20220630120000 +0200" channel="Alquiler 5">
+    <title lang="es">Mediterráneo</title>
+    <desc lang="es"> ★★★☆☆ 1/10/2021 (ES) ● Drama ● 1h 40m.  
+Protagonizada:Eduard Fernández, Dani Rovira, Anna Castillo, Sergi López, Àlex Monner, Melika Foroutan, Patricia López Arnaiz, Vassilis Bisbikis, Giannis Niaros, Drosos Skotis, Yiota Festa, Constantin Symsiris. Dir: Marcel Barrena.  
+Argumento: Otoño de 2015. Dos socorristas, Óscar (Eduard Fernández) y Gerard (Dani Rovira), viajan hasta la isla de Lesbos, en Grecia, impactados por la fotografía de un niño ahogado en las aguas del Mediterráneo. Al llegar descubren una realidad sobrecogedora: miles de personas arriesgan sus vidas cada día cruzando el mar en precarias embarcaciones y huyendo de conflictos armados. Sin embargo, nadie ejerce labores de rescate. Junto a Esther (Anna Castillo), Nico (Sergi López) y otros miembros del equipo, lucharán por cumplir un cometido, dando apoyo a personas que lo necesitan. Para todos ellos, este viaje inicial supondrá una odisea que marcará sus vidas. </desc>
+  </programme>
+  <programme start="20220630120000 +0200" stop="20220701000000 +0200" channel="Alquiler 5">
+    <title lang="es">Mediterráneo</title>
+    <desc lang="es"> ★★★☆☆ 1/10/2021 (ES) ● Drama ● 1h 40m.  
+Protagonizada:Eduard Fernández, Dani Rovira, Anna Castillo, Sergi López, Àlex Monner, Melika Foroutan, Patricia López Arnaiz, Vassilis Bisbikis, Giannis Niaros, Drosos Skotis, Yiota Festa, Constantin Symsiris. Dir: Marcel Barrena.  
+Argumento: Otoño de 2015. Dos socorristas, Óscar (Eduard Fernández) y Gerard (Dani Rovira), viajan hasta la isla de Lesbos, en Grecia, impactados por la fotografía de un niño ahogado en las aguas del Mediterráneo. Al llegar descubren una realidad sobrecogedora: miles de personas arriesgan sus vidas cada día cruzando el mar en precarias embarcaciones y huyendo de conflictos armados. Sin embargo, nadie ejerce labores de rescate. Junto a Esther (Anna Castillo), Nico (Sergi López) y otros miembros del equipo, lucharán por cumplir un cometido, dando apoyo a personas que lo necesitan. Para todos ellos, este viaje inicial supondrá una odisea que marcará sus vidas. </desc>
+  </programme>
+  <programme start="20220630000000 +0200" stop="20220630120000 +0200" channel="Alquiler 6">
+    <title lang="es">No respires 2</title>
+    <desc lang="es"> ★★★☆☆ 24/9/2021 (USA) ● Suspense, Terror ● 1h 30m ● (16).  
+Protagonizada:Stephen Lang, Bobby Schofield, Adam Young, Brendan Sexton III, Madelyn Grace, Rocci Williams, Stephanie Arcila, Christian Zagia. Dir: Rodo Sayagues.  
+Argumento: El ciego se ha estado escondiendo durante años en una cabaña aislada y ha acogido y criado a una niña que perdió a sus padres en un incendio en una casa. Su tranquila existencia se hace añicos cuando un grupo de secuestradores aparece y se lleva a la niña, lo que obliga al Ciego a dejar su refugio seguro para rescatarla. </desc>
+  </programme>
+  <programme start="20220630120000 +0200" stop="20220701000000 +0200" channel="Alquiler 6">
+    <title lang="es">No respires 2</title>
+    <desc lang="es"> ★★★☆☆ 24/9/2021 (USA) ● Suspense, Terror ● 1h 30m ● (16).  
+Protagonizada:Stephen Lang, Bobby Schofield, Adam Young, Brendan Sexton III, Madelyn Grace, Rocci Williams, Stephanie Arcila, Christian Zagia. Dir: Rodo Sayagues.  
+Argumento: El ciego se ha estado escondiendo durante años en una cabaña aislada y ha acogido y criado a una niña que perdió a sus padres en un incendio en una casa. Su tranquila existencia se hace añicos cuando un grupo de secuestradores aparece y se lleva a la niña, lo que obliga al Ciego a dejar su refugio seguro para rescatarla. </desc>
+  </programme>
+</tv>
